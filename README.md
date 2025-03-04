@@ -16,13 +16,23 @@ Hyperspectral anomaly detection (HAD) aims to localize pixel points whose spectr
 
 ## BibTex Citation
 @article{MA2025107036,
+
 title = {Exploring hyperspectral anomaly detection with human vision: A small target aware detector},
+
 journal = {Neural Networks},
+
 volume = {184},
+
 pages = {107036},
+
 year = {2025},
+
 issn = {0893-6080},
+
 doi = {https://doi.org/10.1016/j.neunet.2024.107036},
+
 url = {https://www.sciencedirect.com/science/article/pii/S0893608024009651},
+
 author = {Jitao Ma and Weiying Xie and Yunsong Li},
+
 }
